@@ -1,0 +1,11 @@
+<?php include_once 'header.php'
+?>
+<div class="content">
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae scelerisque augue. Sed egestas condimentum dolor, at aliquet leo. Phasellus leo enim, venenatis nec magna eget, laoreet vulputate lorem. Vestibulum fringilla turpis leo. Nam interdum purus enim, vitae pulvinar quam scelerisque ut. Etiam purus justo, feugiat laoreet pretium quis, hendrerit fermentum ligula. Nunc dapibus mollis ultricies. Etiam cursus justo orci, ut tristique arcu pellentesque et. Proin eget ex risus. Suspendisse potenti. Phasellus fermentum vestibulum lorem a convallis. Donec felis ante, porta sed turpis quis, feugiat vestibulum mi. Praesent sit amet enim metus. Morbi augue orci, consequat vitae sodales gravida, finibus ornare metus. Ut malesuada non neque id venenatis. Maecenas placerat enim mattis tincidunt consequat.
+
+Nam tempus magna in mauris gravida commodo. Phasellus nec urna neque. Donec dapibus, odio at ultrices commodo, arcu risus pretium dui, non ornare nisl arcu tincidunt nulla. In pretium, sapien ut sollicitudin condimentum, nisl urna volutpat metus, nec accumsan quam lectus eu nisl. Sed a tortor eleifend elit suscipit consequat id et lectus. Mauris tincidunt imperdiet sagittis. Nunc gravida tortor ac ipsum tempus, malesuada porttitor tellus venenatis.
+
+Integer ut turpis a sem bibendum rhoncus id in quam. Suspendisse nec arcu est. Sed aliquet leo ut ex consectetur eleifend nec sed nisl. Proin mattis libero odio. Sed lobortis ligula sem, et volutpat quam pulvinar quis. Pellentesque vel erat dictum, facilisis velit dignissim, congue est. Suspendisse scelerisque nisi nec sagittis scelerisque. Aenean neque metus, volutpat non viverra quis, aliquet et eros. Integer maximus laoreet dolor sed malesuada. Vestibulum ac lorem a ipsum iaculis consequat. In finibus non nisi semper imperdiet. Nunc nisi est, imperdiet sollicitudin urna ut, feugiat volutpat leo. Sed dictum tempus ante sed egestas. Curabitur viverra laoreet dui, ac hendrerit ligula semper ut. Morbi justo justo, vulputate sit amet rutrum vel, porta nec augue. Mauris ut arcu quis dui ultrices posuere.
+</div>
+<?php include_once 'footer.php'
+?>
